@@ -20,5 +20,3 @@ Se sua resposta estiver correta, você passa para o próximo enigma.
 Se sua resposta estiver incorreta. Então você perde o jogo.
 
 Este é um jogo de perguntas e respostas suuden death e se você responder incorretamente, você perde instantaneamente.
-
-Projeto de desenvolvedor em python para desenvolver um jogo interativo de adivinhar a palavra com uma GUI
