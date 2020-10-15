@@ -1,22 +1,24 @@
 # <p align = 'center'>Guess The Word </p>
 
-<p align = 'center'> <img width="200" img height="200" src = https://github.com/siddh30/Guess-The-Word/blob/master/Guess_the_word.jpeg  </p>
 
-What this project about:- This project is an interactive Python Game with a Graphical User Interface where the user has to guess the right answer in one word to a set of riddles.
+Sobre o que este projeto é: - Este projeto é um jogo Python interativo com uma interface gráfica de usuário onde o usuário tem que adivinhar a resposta certa em uma palavra para um conjunto de enigmas.
 
-Environment needed for the project:- This is a basic Python code which is compatible with both python3 and python2. You can get the desired output in either Jupyter Notebook or PyCharm 
+Ambiente necessário para o projeto: - Este é um código Python básico que é compatível com python3 e python2. Você pode obter a saída desejada no Jupyter Notebook ou PyCharm
 
-Libaries Required :- Tkinter ( this is an in-built library which does not need to be installed. Along with this basic classes and methods have been used.
+Bibliotecas necessárias: - Tkinter (esta é uma biblioteca embutida que não precisa ser instalada. Junto com isso, classes e métodos básicos foram usados.
 
-How To Play :-
-1) Run the code.
+Como jogar :-
 
-2) There will be a pop gui window with a riddle.
+Execute o código.
 
-3) Answer the riddle in one word.
+Haverá uma janela pop-gui com um enigma.
 
-4) If your answer is correct then you move to the next riddle.
+Responda o enigma em uma palavra.
 
-5) If your answer is incorrect. Then You lose the game.
+Se sua resposta estiver correta, você passa para o próximo enigma.
 
-6) This game is a suuden death quiz game and if you answer incorrectly you lose instantly.
+Se sua resposta estiver incorreta. Então você perde o jogo.
+
+Este é um jogo de perguntas e respostas suuden death e se você responder incorretamente, você perde instantaneamente.
+
+Projeto de desenvolvedor em python para desenvolver um jogo interativo de adivinhar a palavra com uma GUI
